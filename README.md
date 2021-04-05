@@ -201,7 +201,7 @@ Moves a message to the targetted mailbox.
 himalaya delete 5123
 ```
 
-Moves a message.
+Deletes a message.
 
 ### Listen to new messages
 
